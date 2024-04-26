@@ -20,7 +20,7 @@ npm i
 
 ````bash
 # development
-npm start dev
+npm start
 ````
 ## HOW APPLICATIONS WORKS
 HEADER Component is shared from APP2 and used in APP1 with dynamic props to leverage the power of micro-frontends
